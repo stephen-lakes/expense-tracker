@@ -1,0 +1,22 @@
+[
+    {
+        "expenditure": "Transport",
+        "cost": 2000,
+        "date": "14/3/2021"
+    },
+    {
+        "expenditure": "Water",
+        "cost": 1000,
+        "date": "14/3/2021"
+    },
+    {
+        "expenditure": "Milk",
+        "cost": 220,
+        "date": "14/3/2021"
+    },
+    {
+        "expenditure": "Mobile data",
+        "cost": 5000,
+        "date": "14/3/2021"
+    }
+]
